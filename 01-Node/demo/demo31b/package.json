@@ -1,0 +1,16 @@
+{
+  "name": "demo31b",
+  "version": "1.0.0",
+  "description": "Esta es una demo dela primera clase node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melisa Ferreyra y cohorte 31b",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+    
+
+  }
+}
